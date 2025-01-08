@@ -1,0 +1,17 @@
+theme = catppuccin-mocha
+
+font-family = JetBrains Mono
+font-style = Medium 
+font-size = 21
+
+background-opacity = 0.95
+background-blur-radius = 50
+
+clipboard-paste-protection = false
+quit-after-last-window-closed = true
+copy-on-select = true
+
+window-padding-y = 16,0
+window-padding-x = 16
+
+macos-titlebar-style = hidden
